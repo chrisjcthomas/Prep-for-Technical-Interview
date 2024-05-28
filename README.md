@@ -13,7 +13,9 @@ This guide is to help you prepare an interview, whether its a leet code style qu
 ## System Design
 NB: System design interviews are less about coding and more about how you approach problems on a larger scale. They assess your ability to design complex systems, considering various technical and business requirements. It's an opportunity to showcase your knowledge in areas such as databases, web services, scalability, and architectural patterns.
 
-[ByteByteGo](https://bytebytego.com/)
+[ByteByteGo](https://bytebytego.com/) - 
+
+[Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) - A List of System Design Blogs
 
 
 ## Behavioral
